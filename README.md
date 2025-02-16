@@ -59,11 +59,11 @@ I am **Muhammad Fakhar ul Hasnain**, a **Computer Science student** at **COMSATS
 
 ## 📢 Connect With Me
 
-🔗 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammadfakharulhasnain6/)
 
-🐙 **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+🐙 **Instagram**: [Your GitHub Profile](https://www.instagram.com/muhammadfakharulhasnain6/?next=%2F)
 
-📧 **Email**: your-email@example.com
+📧 **Email**: muhammadfakharulhasnain6@gmail.com
 
 🐦 **Twitter**: [Your Twitter Handle](https://twitter.com/yourhandle)
 
