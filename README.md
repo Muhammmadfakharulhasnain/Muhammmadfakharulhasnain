@@ -1,4 +1,4 @@
-# 🎯 Personal Portfolio
+#  Personal Portfolio
 
 Welcome to my personal portfolio repository! 🚀 This repository showcases my skills, projects, and contributions in the fields of **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Full-Stack Development**.
 
@@ -65,7 +65,7 @@ I am **Muhammad Fakhar ul Hasnain**, a **Computer Science student** at **COMSATS
 
 📧 **Email**: muhammadfakharulhasnain6@gmail.com
 
-🐦 **Twitter**: (https://twitter.com/yourhandle)
+
 
 
 
