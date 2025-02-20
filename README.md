@@ -59,9 +59,9 @@ I am **Muhammad Fakhar ul Hasnain**, a **Computer Science student** at **COMSATS
 
 ## 📢 Connect With Me
 
-🔗 **LinkedIn**: (https://www.linkedin.com/in/muhammadfakharulhasnain6/)
+🔗 **LinkedIn**: [muhammadfakharulhasnain6](https://www.linkedin.com/in/muhammadfakharulhasnain6/)
 
-🐙 **Instagram**: (https://www.instagram.com/muhammadfakharulhasnain6/?next=%2F)
+🐙 **Instagram**: [muhammadfakharulhasnain6](https://www.instagram.com/muhammadfakharulhasnain6/?next=%2F)
 
 📧 **Email**: muhammadfakharulhasnain6@gmail.com
 
