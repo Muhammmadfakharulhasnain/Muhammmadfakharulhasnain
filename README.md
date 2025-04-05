@@ -1,71 +1,111 @@
-#  Personal Portfolio
+# Personal Portfolio
 
-Welcome to my personal portfolio repository! 🚀 This repository showcases my skills, projects, and contributions in the fields of **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Full-Stack Development**.
+## Muhammad Fakhar ul Hasnain
+
+### About Me
+I am Muhammad Fakhar ul Hasnain from Pakistan, currently pursuing a Bachelor's degree in Computer Science at COMSATS University Islamabad, Wah Campus (Started in 2022). My primary interests lie in Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Computer Vision. I have worked on multiple projects in these domains, gaining practical experience and problem-solving skills. My goal is to develop intelligent applications and contribute effectively to research and industry.
+
+### Contact Information
+- **Email:** [muhammadfakharulhasnain6@gmail.com](mailto:muhammadfakharulhasnain6@gmail.com)  
+- **University Email:** [SP22-BCS-002@cuiwah.edu.pk](mailto:SP22-BCS-002@cuiwah.edu.pk)  
+- **WhatsApp:** +92314-5294840
+- **Location:** Wah, Taxila, Rawalpindi, Pakistan  
+- **LinkedIn:** [Your LinkedIn Profile](#) *(https://www.linkedin.com/in/muhammadfakharulhasnain6/)*  
+
 
 ---
 
-## 👨‍💻 About
-I am **Muhammad Fakhar ul Hasnain**, a **Computer Science student** at **COMSATS University Islamabad, Wah Campus**. My expertise lies in **AI, and web Development**, and I am passionate about solving real-world problems using cutting-edge technologies. I am also actively involved in research and continuously strive to gain practical industry experience.
+## Field of Interests
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Deep Learning (DL)
+- Computer Vision (CV)
+- Natural Language Processing (NLP)
 
 ---
 
-## 🛠️ Technologies & Skills
-
-🚀 **Programming Languages**: Python, JavaScript, C++
-
-🧠 **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-learn
-
-📷 **Computer Vision**: OpenCV, YOLO
-
-🕸️ **Deep Learning**: CNN, RNN, GANs
-
-🗣️ **Natural Language Processing**: Transformers, BERT, LSTMs
-
-🌐 **Full-Stack Development**: MERN Stack (MongoDB, Express.js, React.js, Node.js)
-
-💾 **Databases**: SQL, NoSQL (MongoDB)
-
-☁️ **Cloud & Deployment**: AWS, Docker
-
-🔍 **Other Skills**: Git, Data Analysis, EDA, Parallel & Distributed Computing
+## Education
+- **Bachelor in Computer Science (In Progress, 2022-2025)**  
+  *Department of Computer Science, COMSATS University Islamabad, Wah Campus, Pakistan.*
+- **Higher Secondary School Certificate in FSC (2019-2021)**  
+  *Federal Board of Intermediate and Secondary Education (FBISE), Islamabad, Pakistan.*
+- **Secondary School Certificate in Science (2016-2018)**  
+  *Federal Board of Intermediate and Secondary Education (FBISE), Islamabad, Pakistan.*
 
 ---
 
-## 🔥 Featured Projects
+## Technical Skills
+### Programming Languages:
+- Python
+- JavaScript
+- C++
 
-📌 **Chatbot with Deep Learning & Computer Vision**: Developed a smart chatbot using deep learning and NLP, integrated with computer vision for video query analysis.
+### Frameworks & Libraries:
+- Scikit-learn
+- TensorFlow
+- Keras
+- OpenCV
+- Pandas
+- NumPy
+- NLTK
+- spaCy
 
-📌 **Fake News Detection**: Built an NLP-based model to identify fake news using machine learning techniques.
+### Development Tools:
+- Visual Studio
+- Jupyter Notebook
+- GitHub
 
-📌 **Employee Attrition Prediction**: Implemented a neural network-based model to predict employee attrition trends.
+### Machine Learning & Deep Learning:
+- Supervised & Unsupervised Learning
+- Neural Networks (NN, ANN, CNN)
+- YOLOv8
+- NLP Techniques
 
-📌 **Vehicle Speed Detection**: Applied Optical Flow and Linear Regression for real-time speed estimation.
+### Databases:
+- MySQL
 
-📌 **EDA on World Happiness Report**: Conducted in-depth data analysis and visualization using Python.
+### Version Control:
+- Git, GitHub
+
+### Data Visualization:
+- Matplotlib
+- Seaborn
+- Plotly
 
 ---
 
-## 🏆 Achievements & Certifications
+## Projects
+### 1. **Fake News Detection – Machine Learning Project**
+   **Tools & Technologies:** Python, Pandas, NumPy, Scikit-learn
 
-✅ **Machine Learning Specialization** – Coursera (Andrew Ng)
+### 2. **Basketball Shot Predictor**
+   **Tools & Technologies:** OpenCV, Pandas, NumPy, YOLOv8, Matplotlib, Keras
 
-✅ **Deep Learning with TensorFlow** – Udacity
-
-✅ **AWS Certified Machine Learning – Specialty**
-
-✅ **Google Data Analytics Professional Certificate**
+### 3. **Resume Classifier – Machine Learning & NLP**
+   **Tools & Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLTK
 
 ---
 
-## 📢 Connect With Me
+## Recommendations
+- **Syed Taimoor Hussain Shah**  
+  Marie Curie Fellow, PARENT Project, Horizon 2020  
+  Politecnico di Torino, Italy  
+  [taimoor.shah@polito.it](mailto:taimoor.shah@polito.it)
 
-🔗 **LinkedIn**: [muhammadfakharulhasnain6](https://www.linkedin.com/in/muhammadfakharulhasnain6/)
+- **Syed Adil Hussain Shah**  
+  Marie Curie Fellow, PARENT Project, Horizon 2020  
+  GPI SpA, Torino, Italy  
+  [syedadilhussain.shah@gpi.it](mailto:syedadilhussain.shah@gpi.it)
 
-🐙 **Instagram**: [muhammadfakharulhasnain6](https://www.instagram.com/muhammadfakharulhasnain6/?next=%2F)
+---
 
-📧 **Email**: muhammadfakharulhasnain6@gmail.com
+## How to Use This Repository
+This repository serves as my personal portfolio showcasing my skills, projects, and professional background. Feel free to explore my projects, review my work, and connect with me for collaboration opportunities.
 
+---
 
+###  Let's Connect!
+If you're interested in collaborating on AI, ML, or NLP projects, feel free to reach out. Looking forward to building innovative solutions together!
 
-
+-
 
