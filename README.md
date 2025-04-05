@@ -10,7 +10,7 @@ I am Muhammad Fakhar ul Hasnain from Pakistan, currently pursuing a Bachelor's d
 - **University Email:** [SP22-BCS-002@cuiwah.edu.pk](mailto:SP22-BCS-002@cuiwah.edu.pk)  
 - **WhatsApp:** +92314-5294840
 - **Location:** Wah, Taxila, Rawalpindi, Pakistan  
-- **LinkedIn:** [Your LinkedIn Profile](#) *(https://www.linkedin.com/in/muhammadfakharulhasnain6/)*  
+- **LinkedIn:** [Muhammad Fakhar ul Hasnain](#) *(https://www.linkedin.com/in/muhammadfakharulhasnain6/)*  
 
 
 ---
