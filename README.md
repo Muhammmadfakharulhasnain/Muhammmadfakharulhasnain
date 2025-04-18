@@ -63,7 +63,7 @@ I enjoy solving problems, building useful projects, and continuously learning ne
 
 ## 📫 Contact Me
 
-- ✉️ Email: fakharulhasnain.mf@gmail.com  
+- ✉️ Email: muhammadfakharulhasnain6@gmail.com  
 - 💼 LinkedIn: [Muhammad Fakhar ul Hasnain](https://www.linkedin.com/in/muhammadfakharulhasnain6)  
 - 🌐 GitHub: [Muhammad Fakhar ul Hasnain](https://github.com/Muhammmadfakharulhasnain)
 
