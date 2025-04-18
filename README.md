@@ -1,111 +1,86 @@
-# Personal Portfolio
+# 💼 Muhammad Fakhar ul Hasnain — Portfolio
 
-## Muhammad Fakhar ul Hasnain
-
-### About Me
-I am Muhammad Fakhar ul Hasnain from Pakistan, currently pursuing a Bachelor's degree in Computer Science at COMSATS University Islamabad, Wah Campus (Started in 2022). My primary interests lie in Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Computer Vision. I have worked on multiple projects in these domains, gaining practical experience and problem-solving skills. My goal is to develop intelligent applications and contribute effectively to research and industry.
-
-### Contact Information
-- **Email:** [muhammadfakharulhasnain6@gmail.com](mailto:muhammadfakharulhasnain6@gmail.com)  
-- **University Email:** [SP22-BCS-002@cuiwah.edu.pk](mailto:SP22-BCS-002@cuiwah.edu.pk)  
-- **WhatsApp:** +92314-5294840
-- **Location:** Wah, Taxila, Rawalpindi, Pakistan  
-- **LinkedIn:** [Muhammad Fakhar ul Hasnain](#) *(https://www.linkedin.com/in/muhammadfakharulhasnain6/)*  
-
+Welcome to my portfolio! I'm a passionate Computer Science student and an  **Aspiring AI Engineer** and **Full-Stack Developer**. I love building real-world solutions using AI, machine learning, deep learning, and modern web technologies.
 
 ---
 
-## Field of Interests
-- Artificial Intelligence (AI)
-- Machine Learning (ML)
-- Deep Learning (DL)
-- Computer Vision (CV)
-- Natural Language Processing (NLP)
+## 🧠 About Me
+
+Hi, I'm **Muhammad Fakhar ul Hasnain**, a BS Computer Science student at **COMSATS University Islamabad, Wah Campus**. I’m deeply interested in:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Science & Deep Learning
+- 🌐 Full-Stack Web Development (MERN)
+- 🧠 NLP & Computer Vision
+- 📷 YOLO & OpenCV
+- 🕷 Web Scraping & Automation
+
+I enjoy solving problems, building useful projects, and continuously learning new technologies.
 
 ---
 
-## Education
-- **Bachelor in Computer Science (In Progress, 2022-2025)**  
-  *Department of Computer Science, COMSATS University Islamabad, Wah Campus, Pakistan.*
-- **Higher Secondary School Certificate in FSC (2019-2021)**  
-  *Federal Board of Intermediate and Secondary Education (FBISE), Islamabad, Pakistan.*
-- **Secondary School Certificate in Science (2016-2018)**  
-  *Federal Board of Intermediate and Secondary Education (FBISE), Islamabad, Pakistan.*
+## 🚀 Tech Stack
+
+### 💻 Languages:
+- Python, JavaScript, C++, HTML, CSS, SQL
+
+### 🧠 AI & ML:
+- Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV, NLTK, Transformers
+
+### 🌐 Web Development:
+- React.js, Node.js, Express.js, MongoDB, REST APIs
+
+### 🔧 Tools & Platforms:
+- Git & GitHub, VS Code, Jupyter, Postman, Firebase, Figma, Heroku, Netlify
 
 ---
 
-## Technical Skills
-### Programming Languages:
-- Python
-- JavaScript
-- C++
+## 📂 Featured Projects
 
-### Frameworks & Libraries:
-- Scikit-learn
-- TensorFlow
-- Keras
-- OpenCV
-- Pandas
-- NumPy
-- NLTK
-- spaCy
+### 🔍 Fake News Detection (NLP)
+> Built a classifier to detect fake vs real news using NLP techniques and machine learning (Logistic Regression, Random Forest, TF-IDF).
 
-### Development Tools:
-- Visual Studio
-- Jupyter Notebook
-- GitHub
+### 🎯 Internship Portal — MERN Stack
+> A full-stack platform to connect students with software house internships based on their skills. React + Node.js + Express + MongoDB.
 
-### Machine Learning & Deep Learning:
-- Supervised & Unsupervised Learning
-- Neural Networks (NN, ANN, CNN)
-- YOLOv8
-- NLP Techniques
+### 📷 Vehicle Speed Detection — Computer Vision
+> Used OpenCV & Optical Flow + Linear Regression to estimate vehicle speed in videos.
 
-### Databases:
-- MySQL
+### 🕷 Greeklish & English Web Scraper — Scrapy
+> A smart web scraper to collect Greeklish and English text for NLP training using Scrapy and regex.
 
-### Version Control:
-- Git, GitHub
-
-### Data Visualization:
-- Matplotlib
-- Seaborn
-- Plotly
+### 🤖 AI Chatbot with Video Understanding (FYP)
+> A deep learning-based chatbot that understands text and video queries using NLP and computer vision (YOLO + Person Detection).
 
 ---
 
-## Projects
-### 1. **Fake News Detection – Machine Learning Project**
-   **Tools & Technologies:** Python, Pandas, NumPy, Scikit-learn
+## 📈 GitHub Stats
 
-### 2. **Basketball Shot Predictor**
-   **Tools & Technologies:** OpenCV, Pandas, NumPy, YOLOv8, Matplotlib, Keras
-
-### 3. **Resume Classifier – Machine Learning & NLP**
-   **Tools & Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLTK
+![GitHub Stat](https://github-readme-stats.vercel.app/api?username=Muhammmadfakharulhasnain&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammmadfakharulhasnain&layout=compact&theme=radical)
 
 ---
 
-## Recommendations
-- **Syed Taimoor Hussain Shah**  
-  Marie Curie Fellow, PARENT Project, Horizon 2020  
-  Politecnico di Torino, Italy  
-  [taimoor.shah@polito.it](mailto:taimoor.shah@polito.it)
+## 📫 Contact Me
 
-- **Syed Adil Hussain Shah**  
-  Marie Curie Fellow, PARENT Project, Horizon 2020  
-  GPI SpA, Torino, Italy  
-  [syedadilhussain.shah@gpi.it](mailto:syedadilhussain.shah@gpi.it)
+- ✉️ Email: fakharulhasnain.mf@gmail.com  
+- 💼 LinkedIn: [Muhammad Fakhar ul Hasnain](https://www.linkedin.com/in/muhammadfakharulhasnain6)  
+- 🌐 GitHub: [Muhammad Fakhar ul Hasnain](https://github.com/Muhammmadfakharulhasnain)
 
 ---
 
-## How to Use This Repository
-This repository serves as my personal portfolio showcasing my skills, projects, and professional background. Feel free to explore my projects, review my work, and connect with me for collaboration opportunities.
+## 🏆 Goals
+
+- ✅ Become a LinkedIn influencer in the tech space  
+- ✅ Share valuable AI & Dev content  
+- 🔄 Contribute to open-source AI/ML tools  
+- 🎓 Pursue MS in Computer Science (USA)
 
 ---
 
-###  Let's Connect!
-If you're interested in collaborating on AI, ML, or NLP projects, feel free to reach out. Looking forward to building innovative solutions together!
+## 📜 License
 
--
+This portfolio is open-source. Feel free to use the template and customize it!
+
+---
 
