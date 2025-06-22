@@ -1,37 +1,29 @@
 # 💼 Muhammad Fakhar ul Hasnain — Portfolio
 
-Welcome to my portfolio! I'm a passionate Computer Science student and an  **Aspiring AI Engineer** and **Full-Stack Developer**. I love building real-world solutions using AI, machine learning, deep learning, and modern web technologies.
+Welcome to my portfolio! I'm a passionate Computer Science student and an **AI Engineer** and . I love building real-world solutions using AI, machine learning, deep learning, and modern web technologies.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/muhammadfakharulhasnain6/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:muhammadfakharulhasnain6@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="https://github.com/Muhammmadfakharulhasnain">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+      <img src="https://img.shields.io/badge/-Gmail-000000?style=flat&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail Badge"/>
     </a>
     <a href="https://wa.me/923145294840">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+      <img src="https://img.shields.io/badge/-WhatsApp-000000?style=flat&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp Badge"/>
     </a>
-  </div> 
-  <br> 
-  <img src="https://komarev.com/ghpvc/?username=Muhammmadfakharulhasnain&style=flat-square&color=blue" alt=""/>
+  </div>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Muhammadfakharulhasnain&style=flat-square&color=blue" alt=""/>
 </div>
-
-
-
-
-
 
 ---
 
 ## 🧠 About Me
 
-Hi, I'm **Muhammad Fakhar ul Hasnain**, a BS Computer Science student at **COMSATS University Islamabad, Wah Campus**. I’m deeply interested in:
+Hi, I'm **Muhammad Fakhar ul Hasnain**, a BS Computer Science student (2022–2025) at **COMSATS University Islamabad, Wah Campus**, Pakistan. I’m passionate about creating impactful AI solutions and full-stack applications, with expertise in:
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 📊 Data Science & Deep Learning
@@ -44,130 +36,163 @@ I enjoy solving problems, building useful projects, and continuously learning ne
 
 ---
 
+## 📚 Education
+
+- **Bachelor of Science in Computer Science** (2022–2025, In Progress)  
+  COMSATS University Islamabad, Wah Campus, Pakistan  
+  Division: 1st
+
+- **Higher Secondary School Certificate (FSC)** (2019–2021)  
+  Federal Board of Intermediate and Secondary Education (FBISE), Islamabad, Pakistan  
+  Division: 1st
+
+- **Secondary School Certificate (Science)** (2016–2018)  
+  Federal Board of Intermediate and Secondary Education (FBISE), Islamabad, Pakistan  
+  Division: 1st
+
+---
+
+## 💼 Internship
+
+- **AI Engineer Intern**  
+  **Company**: Code X  
+  **Duration**: April 2025–Ongoing  
+  **Location**: Remote  
+  - Developed NLP and AI solutions using Azure OpenAI services and LangChain.  
+  - Built tools for contextual chatbots, sentiment analysis, and language classification.  
+  - Created a RAG-based Q&A app with Streamlit and ChromaDB.  
+  - Optimized prompts for cost-effective LLM API usage.
+
+---
+
 ## 🚀 Skills
 
 💻 **Languages**<br>
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white&labelColor=3776AB) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E) 
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=white&labelColor=00599C) 
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white&labelColor=000000)
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white&labelColor=3776AB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=white&labelColor=00599C)
-![markdown](https://img.shields.io/badge/-markdown-000000?style=flat&logo=markdown&logoColor=white&labelColor=000000)
+🛠️ **Tools**<br>
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) 
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff) 
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC) 
+![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=white&labelColor=FFC012) 
+![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=flat&logo=powerbi&logoColor=white&labelColor=F2C811) 
+![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft-azure&logoColor=white&labelColor=0078D4) 
+![Gradio](https://img.shields.io/badge/-Gradio-000000?style=flat&logo=gradio&logoColor=white&labelColor=FF6B6B)
 
-🛠️ **Tools** <br>
+📚 **Libraries**<br>
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas&logoColor=white&labelColor=150458) 
+![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy&logoColor=white&labelColor=013243) 
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=matplotlib&logoColor=white&labelColor=11557C) 
+![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat&logo=seaborn&logoColor=white&labelColor=3788A3) 
+![SciPy](https://img.shields.io/badge/-SciPy-000000?style=flat&logo=scipy&logoColor=white&labelColor=8CAAE6) 
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000000?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow&logoColor=white&labelColor=FF6F00) 
+![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=keras&logoColor=white&labelColor=FF0000) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C) 
+![NLTK](https://img.shields.io/badge/-NLTK-000000?style=flat&logo=nltk&logoColor=white&labelColor=4B8BBE) 
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white&labelColor=1C3C3C) 
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv&logoColor=white&labelColor=5C3EE8)
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=white&labelColor=FFC012)
-![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=flat&logo=powerbi&logoColor=white&labelColor=F2C811)
+🌐 **Frameworks**<br>
+![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat&logo=streamlit&logoColor=white&labelColor=FF4B4B) 
+![Django](https://img.shields.io/badge/-Python%20(Django)-000000?style=flat&logo=django&logoColor=white&labelColor=092E20) 
+![Flask](https://img.shields.io/badge/-Python%20(Flask)-000000?style=flat&logo=flask&logoColor=white&labelColor=000000) 
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=white&labelColor=61DAFB) 
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=white&labelColor=339933) 
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white&labelColor=000000)
 
-📚 **Libraries** <br>
+🛢 **Databases**<br>
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff) 
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-000000?style=flat&logo=chromadb&logoColor=white&labelColor=4A90E2)
 
-![pandas](https://img.shields.io/badge/-pandas-000000?style=flat&logo=pandas&logoColor=white&labelColor=150458)
-![numpy](https://img.shields.io/badge/-numpy-000000?style=flat&logo=numpy&logoColor=white&labelColor=013243)
-![matplotlib](https://img.shields.io/badge/-matplotlib-000000?style=flat&logo=matplotlib&logoColor=white&labelColor=11557C)
-![scipy](https://img.shields.io/badge/-scipy-000000?style=flat&logo=scipy&logoColor=white&labelColor=8CAAE6)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-000000?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow&logoColor=white&labelColor=FF6F00)
-![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras&logoColor=white&labelColor=FF0000)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C)
-
-🌐 **Frameworks** <br>
-
-![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat&logo=streamlit&logoColor=white&labelColor=FF4B4B)
-![Python (Django)](https://img.shields.io/badge/-Python%20(Django)-000000?style=flat&logo=django&logoColor=white&labelColor=092E20)
-![Python (Flask)](https://img.shields.io/badge/-Python%20(Flask)-000000?style=flat&logo=flask&logoColor=white&labelColor=000000)
-
-🛢 **Database** <br>
-
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-
-🧠 **Expertise** <br>
-
-![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000000?style=flat&logo=artificial-intelligence&logoColor=white&labelColor=FF6F00)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000000?style=flat&logo=machine-learning&logoColor=white&labelColor=4CAF50)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-000000?style=flat&logo=deep-learning&logoColor=white&labelColor=00BCD4)
-![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-000000?style=flat&logo=natural-language-processing&logoColor=white&labelColor=FF4081)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-000000?style=flat&logo=computer-vision&logoColor=white&labelColor=607D8B)
-
+🧠 **Expertise**<br>
+![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000000?style=flat&logo=artificial-intelligence&logoColor=white&labelColor=FF6F00) 
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000000?style=flat&logo=machine-learning&logoColor=white&labelColor=4CAF50) 
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-000000?style=flat&logo=deep-learning&logoColor=white&labelColor=00BCD4) 
+![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-000000?style=flat&logo=natural-language-processing&logoColor=white&labelColor=FF4081) 
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-000000?style=flat&logo=computer-vision&logoColor=white&labelColor=607D8B) 
+![RAG](https://img.shields.io/badge/-Retrieval-Augmented%20Generation-000000?style=flat&logo=rag&logoColor=white&labelColor=9C27B0) 
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-000000?style=flat&logo=yolo&logoColor=white&labelColor=00FFFF)
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔍 Fake News Detection (NLP)
-> Built a classifier to detect fake vs real news using NLP techniques and machine learning (Logistic Regression, Random Forest, TF-IDF).
+### 🛍️ AI Retail Advisor — GPT-4o-mini Chatbot
+> Built a smart shopping assistant using GPT-4o-mini, Gradio, and Python to handle customer queries, promote sale items (e.g., hats at 60% off), and provide a dark-themed UI.
 
-### 🎯 Internship Portal — MERN Stack
-> A full-stack platform to connect students with software house internships based on their skills. React + Node.js + Express + MongoDB.
+### 💬 Ask-the-Doc — LangChain RAG-based Q&A App
+> Developed a Streamlit app using LangChain, OpenAI GPT, and ChromaDB for semantic document analysis and interactive Q&A with RAG.
+
+### 🛠 Azure OpenAI Language Intelligence Tools
+> Created tools using Azure OpenAI GPT for contextual chatbots, sentiment analysis, and Greeklish vs. English classification with optimized prompts.
+
+### 🌐 Arabizi Normalization Dictionary Tool
+> Built a full-stack web app with React.js, Node.js, and Tailwind CSS to normalize Arabizi text entries.
+
+### 📝 Resume Classifier — NLP
+> Developed an NLP-based classifier using Scikit-learn and NLTK to categorize resumes by job roles.
 
 ### 🍚 Paddy Rice Disease Detection — Computer Vision
-> Used OpenCV, CNN, and other techniques to classify and detect diseases in paddy rice crops from images.
+> Built a CNN-based classifier using OpenCV, Keras, and TensorFlow to detect rice leaf diseases from images.
 
 ### 🏀 Basketball Shot Predictor — Computer Vision
-> Built a model to predict the success of basketball shots using OpenCV and Yolov8 for tracking and analyzing the player’s actions.
+> Developed a video analysis tool using YOLOv8 and OpenCV to track player movements and predict basketball shot outcomes.
+
+### 🔍 Fake News Detection — NLP
+> Built an NLP classifier using Scikit-learn and NLTK to distinguish real vs. fake news with TF-IDF and machine learning.
 
 ### 🦠 Breast Cancer Detection — Machine Learning
-> Developed a machine learning model to predict breast cancer using the breast cancer Wisconsin dataset, employing techniques like Random Forest and SVM for classification.
+> Developed a predictive model using Scikit-learn (Random Forest, SVM) for breast cancer diagnosis using the Wisconsin dataset.
 
-### 🗺 EDA on Pakistan Population & Google Play Store App Analysis — EDA
-> Conducted exploratory data analysis on the Pakistan population dataset and the Google Play Store dataset to examine trends, ratings, categories, and other performance metrics.
+### 🎯 Internship Portal — MERN Stack
+> Built a full-stack platform using React, Node.js, Express, and MongoDB to connect students with internship opportunities.
 
+### 🗺 EDA on Pakistan Population & Google Play Store Apps
+> Performed exploratory data analysis using Pandas and Seaborn to uncover trends in Pakistan’s population and app performance metrics.
 
+---
 
 ## 📜 Certifications
 
 - **[40 Days Python for Data Science](https://www.codanics.com)**  
   Institute: Codanics | Instructor: Dr. Ammar Tufail  
-  _Reference No: 2f686baf7577e9b_  
-  A comprehensive 40-day course focused on Python for Data Science, covering various libraries and techniques.
+  _Completed_  
+  Covered Python libraries for data science, including Pandas, NumPy, and Matplotlib.
 
 - **AI and Data Science Mentorship Program**  
   Institute: Codanics | Instructor: Dr. Ammar Tufail  
   _In Progress_  
-  A mentorship program focused on AI and Data Science, designed to provide hands-on experience and expert guidance.
+  Hands-on mentorship in AI and data science with real-world projects.
 
-- **[Open-CV BootCamp](https://www.opencv.org)**  
-  Institute: OpenCv-University  
-  A specialized bootcamp to master computer vision using OpenCV, covering essential tools, techniques, and applications.
+- **[OpenCV BootCamp](https://www.opencv.org)**  
+  Institute: OpenCV University  
+  _Completed_  
+  Mastered computer vision techniques using OpenCV for image and video analysis.
 
 - **[Digital Marketing](https://www.enabler.com)**  
   Institute: Enabler | Instructor: Zubair Taj  
-  A course on digital marketing strategies, tools, and best practices, focusing on increasing brand visibility and engagement online.
+  _Completed_  
+  Learned digital marketing strategies for brand visibility and engagement.
 
+---
 
+## 📬 Contact Information
 
+- **Address**: House No 23, Street 15, Block A, New City Phase 2, Wah, Taxila, Rawalpindi, Pakistan
+- **Phone**: +92 3145294840
+- **Email**: [muhammadfakharulhasnain6@gmail.com](mailto:muhammadfakharulhasnain6@gmail.com)
+- **LinkedIn**: [linkedin.com/in/muhammadfakharulhasnain6](https://www.linkedin.com/in/muhammadfakharulhasnain6/)
+- **Languages**: English, Urdu (Native)
 
-
-
-
-
+---
 
 
 
 ---
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammmadfakharulhasnain&show_icons=true&theme=radical&cache_seconds=86400" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammmadfakharulhasnain&layout=compact&theme=radical&cache_seconds=86400" width="42%" />
-
-  <br><br>
-
-  <!-- GitHub Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammmadfakharulhasnain&theme=radical" width="80%" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammmadfakharulhasnain&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammmadfakharulhasnain&theme=radical" width="48%" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammmadfakharulhasnain&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammmadfakharulhasnain&theme=radical&utcOffset=5" width="48%" />
-
-</div>
-
-
----
-
 
 ## 🏆 Goals
 
@@ -177,8 +202,3 @@ I enjoy solving problems, building useful projects, and continuously learning ne
   <img src="https://img.shields.io/badge/Contribute%20to%20open%20source%20AI%2FML%20tools-%E2%9C%94-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Pursue%20MS%20in%20Computer%20Science%20USA-%E2%9C%94-purple?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=6A0DAD" />
 </div>
-
-
-
-
-
