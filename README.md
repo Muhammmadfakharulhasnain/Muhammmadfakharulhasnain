@@ -1,6 +1,6 @@
 # 💼 Muhammad Fakhar ul Hasnain — Portfolio
 
-Welcome to my portfolio! I'm a passionate Computer Science student and an **AI Engineer** and . I love building real-world solutions using AI, machine learning, deep learning, and modern web technologies.
+Welcome to my portfolio! I'm a passionate Computer Science student and an **AI Engineer** and . I love building real-world solutions using AI, machine learning, deep learning, and Agentic AI & Automation.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -27,10 +27,9 @@ Hi, I'm **Muhammad Fakhar ul Hasnain**, a BS Computer Science student (2022–20
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 📊 Data Science & Deep Learning
-- 🌐 Full-Stack Web Development (MERN)
 - 🧠 NLP & Computer Vision
 - 📷 YOLO & OpenCV
-- 🕷 Web Scraping & Automation
+- 🕷 Agentic AI & Automation
 
 I enjoy solving problems, building useful projects, and continuously learning new technologies.
 
